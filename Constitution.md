@@ -72,7 +72,7 @@ by the Chancellor.
 **V**. In addition, an unjust vote by the Cabinet can be called out through formal complaint. During this time, it is necessary for 5 individuals to submit a formal proposal and complaint to the Speaker, who will review its validity and determine if a general vote is in order. If it is, then the entire Parliament will vote on the proposed law, including the Cabinet.\
 **VI**. There is to be no limit on the number of MPs or pieces of legislature on the floor at one time.\
 **VII**. Unless specified in the body of a bill, no law passed by Parliament is retroactive. An act committed may only be punished according to the provisons of a law that was fully in force at the time the act was committed.\
-**VIII** Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
+**VIII**. Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
 
 ## Article 4 - The Cabinet - [Taken from CFN Const - Revised mildly]
 
