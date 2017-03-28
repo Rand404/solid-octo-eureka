@@ -1,6 +1,4 @@
-# solid-octo-eureka
-
-### The Constitution of the Confederacy of Free Natons
+# The Constitution of the Confederacy of Free Natons
 -------------------------------------------------------
 
 ## Preamble
