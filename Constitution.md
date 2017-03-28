@@ -77,7 +77,7 @@ by the Chancellor.
 ## Article 4 - The Cabinet - [Taken from CFN Const - Revised mildly]
 
 **I**. The Cabinet is a democratically elected group of leaders who are Members of Parliament. To become a member of the Cabinet, one must be a Resident with a listed WA nation and be voted into the position during general elections.\
-**II**. The Cabinet is part of the Parliament, but has the power to act as a second house of legislature on bills reaching in the 50-80 percentile endorsement rating from Parliament.\ 
+**II**. The Cabinet is part of the Parliament, but has the power to act as a second house of legislature on bills reaching in the 50-80 percentile endorsement rating from Parliament. \
 **III**. The Cabinet leaders will help decide the direction of the Confederacy in internal affairs, foreign affairs, judicial affairs, and overall executive affairs.\
 **IV**. The members of the Cabinet shall each individually be allowed to appoint a deputy to their seat. The deputy shall be bound by law to keep what he or she learns of classified information classified. The Cabinet member may appoint and dismiss deputies at will. Deputies do not automatically succeed to take on the Cabinet member's position if that member resigns or falls.
 
