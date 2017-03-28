@@ -1,15 +1,15 @@
 # solid-octo-eureka
 
 ### The Constitution of the Confederacy of Free Natons
-==================================================
+-------------------------------------------------------
 
 ## Preamble
---------
+
 
 lorium ipsem etc, etc.
 
 ## Article 1 - Bill of Rights - [Taken from CFN Const]
----------------------------------------------------
+
 
 I. Parliament shall make no law respecting an establishment of religion
 in the government, or prohibiting the free exercise thereof; abridging
@@ -38,7 +38,6 @@ V. There shall be no emotionally cruel and unusual punishments inflicted
 by the region on any person in any circumstance.
 
 ## Article 2 - Government Mechanisms - [Taken from CFN Const, revised mildly]
---------------------------------------------------------------------------
 
 I. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
