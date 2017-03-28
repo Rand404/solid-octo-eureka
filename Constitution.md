@@ -89,3 +89,12 @@ by the Chancellor.
 **IV**. **The Minister of Internal Affairs** has the primary duty of managing citizenship and maintaining Cabinet-Parliament relations. The Minister of Internal Affairs has the responsibility of managing the Citizenship Office, and handling citizenship for the entire region. At any point the Chancellor may ask to pull citizenship records, but the Internal Affairs Minister has the right to refuse the Chancellor access to the citizenship office. All officer rights are given to the Minister of Internal Affairs.\
 **V**. **The Minister of Justice** has the key responsibility of providing critical legal advice to the Cabinet. The Minister of Justice is also tasked with carrying out punishments given out by the judiciary. Border control and communications rights are given to the Minister of Justice.
 
+## Article 6 
+
+
+## Article 7 - Election Procedure - [Taken from CFN Const]
+**I**. Under this Constitution there shall be elections voted upon by all registered citizens every 2 months. Positions that will be democratically voted into office will include the Cabinet and the Chancellor. Elections are to be held on the 1-4th of the delegated months.
+**II**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Commonwealth to be established in order to collect votes through telegram. The committee will be comprised solely of the Lord-Chancellor and former Chancellors. 
+**II**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.
+**IV**. The voting system will be a simple first-past-the-post system, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.
+
