@@ -1,5 +1,5 @@
 # The Constitution of the Confederacy of Free Natons
--------------------------------------------------------
+
 
 ## Preamble
 
@@ -31,7 +31,7 @@ the accusation; to be confronted with the witnesses against him; to have
 process for obtaining witnesses in his favour, and to have the assistance
 of counsel for his defence.\
 **V**. There shall be no emotionally cruel and unusual punishments inflicted
-by the region on any person in any circumstance.
+by the region on any person in any circumstance.\
 
 ## Article 2 - Government Mechanisms - [Taken from CFN Const, revised mildly]
 
@@ -61,10 +61,10 @@ group of 7 citizens, a Cabinet supermajority, or the Chancellor. If the
 referendum passes with approval ratings above 60%, then the decision
 must be carried out. If the referendum is between 50-60%, the Cabinet
 will be called for a Majority Time Vote where the decision may be vetoed
-by the Chancellor.
+by the Chancellor.\
 
 ## Article 3 - The Confederate Parliament - [Taken from CFN Const, revised heavily]
---------------------------------------
+
 **I**. A Member of Parliament, to be known as an MP, is an individual responsible for generating proposals and representing the general public within the Confederacy. To qualify for the role of MP, one must apply for citizenship with the Minister of Internal Affairs, have a listed WA nation, and be accepted into the citizenry.\
 **II**. The Speaker is established as the leader of the Parliament. Their role is to maintain order and organisation within Parliament as well as preserving Parliamentary authority. The Speaker is tasked with organising voting in regard to legislation and other matters as Parlimanent as well as archiving and storing laws and failed legislation. The Speaker is elected every 2 months in a standard election.\
 **III**. The Parliament's primary purpose is to be a forum of legislation for the Confederacy. Any MP may submit proposals and vote on other proposals. Legislation is passed through the Parliament into law if after a one-week period that legislation holds an 80% or above supermajority endorsement rating. If the endorsement rating is between 50-80%, then the Cabinet will be called for a Majority Time Vote concerning the legislation at hand. If the legislation does not reach a 50% or above endorsement rating, then it is shot down from the Parliament.\
