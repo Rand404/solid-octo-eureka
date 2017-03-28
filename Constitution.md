@@ -89,3 +89,12 @@ by the Chancellor.
 **IV**. **The Minister of Internal Affairs** has the primary duty of managing citizenship and maintaining Cabinet-Parliament relations. The Minister of Internal Affairs has the responsibility of managing the Citizenship Office, and handling citizenship for the entire region. At any point the Chancellor may ask to pull citizenship records, but the Internal Affairs Minister has the right to refuse the Chancellor access to the citizenship office. All officer rights are given to the Minister of Internal Affairs.\
 **V**. **The Minister of Justice** has the key responsibility of providing critical legal advice to the Cabinet. The Minister of Justice is also tasked with carrying out punishments given out by the judiciary. Border control and communications rights are given to the Minister of Justice.
 
+## Article 6 - The Judiciary and the Constabulary 
+
+**I**. The Judicial Branch of the Commonwealth is established apart from the Cabinet and Parliament to secure and ensure justice in the Commonwealth and its government. 
+**II**. The hierarchy and organization of the Judicial Branch is completely decided upon by the Chief Justice, however the Justice's decisions regarding structure and hierarchy may be repealed and changed by a 4/6 agreement within the Cabinet.
+**III**. The Chief Justice will be voted upon publicly by all registered citizens during the same election period as all other elected officials, every 2 months.
+**IV**. The Supreme Court will be composed of 4 individuals, one being the Lord-Chancellor, one being the Chief Justice, and the other 2 Justices being chosen by the Chief Justice and approved by a normal majority vote from Parliament.
+**V**. The decisions and rulings of the Supreme Court made inside a Court of Law are the highest interpretation of the Constitution, and cannot be stricken down or amended by any other body other than the Supreme Court.
+**VI**. Alongside the Supreme Court, the Chief Justice is responsible for maintaining any amount of necessary lower courts and judges to fit them.
+
