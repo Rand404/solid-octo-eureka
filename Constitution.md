@@ -1,12 +1,11 @@
 # The Constitution of the Confederacy of Free Natons
--------------------------------------------------------
+
 
 ## Preamble
 
 lorium ipsem etc, etc.
 
 ## Article 1 - Bill of Rights - [Taken from CFN Const]
---------------------------------------
 
 **I**. Parliament shall make no law respecting an establishment of religion
 in the government, or prohibiting the free exercise thereof; abridging
@@ -35,7 +34,6 @@ of counsel for his defence.\
 by the region on any person in any circumstance.
 
 ## Article 2 - Government Mechanisms - [Taken from CFN Const, revised mildly]
---------------------------------------
 
 **I**. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
@@ -66,7 +64,6 @@ will be called for a Majority Time Vote where the decision may be vetoed
 by the Chancellor.
 
 ## Article 3 - The Confederate Parliament - [Taken from CFN Const, revised heavily]
---------------------------------------
 
 **I**. A Member of Parliament, to be known as an MP, is an individual responsible for generating proposals and representing the general public within the Confederacy. To qualify for the role of MP, one must apply for citizenship with the Minister of Internal Affairs, have a listed WA nation, and be accepted into the citizenry.\
 **II**. The Speaker is established as the leader of the Parliament. Their role is to maintain order and organisation within Parliament as well as preserving Parliamentary authority. The Speaker is tasked with organising voting in regard to legislation and other matters as Parlimanent as well as archiving and storing laws and failed legislation. The Speaker is elected every 2 months in a standard election.\
@@ -74,20 +71,22 @@ by the Chancellor.
 **IV**. The Parliament's check on the power of the Cabinet lies in its ability to remove Cabinet members. Such a decision will require that the legislature pertaining to the removal of the Minister(s) be on the floor for one-week, and at the one-week mark the legislature hold a 70% or above endorsement rating with 10 or more MPs voting in said legislature. Any Minister in the process of undergoing impeachment shall not be allowed to vote within the legislature on matters pertaining to his or her impeachment.\
 **V**. In addition, an unjust vote by the Cabinet can be called out through formal complaint. During this time, it is necessary for 5 individuals to submit a formal proposal and complaint to the Speaker, who will review its validity and determine if a general vote is in order. If it is, then the entire Parliament will vote on the proposed law, including the Cabinet.\
 **VI**. There is to be no limit on the number of MPs or pieces of legislature on the floor at one time.\
+**VII**. Unless specified in the body of a bill, no law passed by Parliament is retroactive. An act committed may only be punished according to the provisons of a law that was fully in force at the time the act was committed.\
+**VIII** Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
 
 ## Article 4 - The Cabinet - [Taken from CFN Const - Revised mildly]
---------------------------------------
+
 **I**. The Cabinet is a democratically elected group of leaders who are Members of Parliament. To become a member of the Cabinet, one must be a Resident and voted into the position during general elections.\
 **II**. The Cabinet is part of the Parliament, but has the power to act as a second house of legislature on bills reaching in the 50-80 percentile endorsement rating from Parliament.\ 
 **III**. The Cabinet leaders will help decide the direction of the Confederacy in internal affairs, foreign affairs, judicial affairs, and overall executive affairs.\
 **IV**. The members of the Cabinet shall each individually be allowed to appoint a deputy to their seat. The deputy shall be bound by law to keep what he or she learns of classified information classified. The Cabinet member may appoint and dismiss deputies at will. Deputies do not automatically succeed to take on the Cabinet member's position if that member resigns or falls.\
 
 ## Article 5 - Cabinet Functions - [Taken from CFN Const]
---------------------------------------
 
-1. The Chancellor (or the WA Delegate) has the primary duty of overseeing the successful operation of the Parliament and is the Head of State for the Commonwealth. He maintains the power to directly influence any aspect of governmental policy making, though he may not, under any circumstances, illegally alter or effect changes within the Commonwealth government that go against the existing Commonwealth Constitution. Furthermore, he carries the right to establish embassies and diplomatic relations between the Commonwealth and other regions, veto Parliament and Cabinet legislature, and carry out intelligence queries. Ban and ejection rights are also given to the Chancellor, but improper use may lead to impeachment and subsequent removal.
-2. The Vice-Chancellor has the primary obligation to manage recruitment and growth for the Commonwealth. In the event that the Chancellor is absent for a period of more than 7 days, then the Vice-Chancellor may take the Chancellor's position. If the Chancellor returns within the same term, then he or she may return to their original position, and the Vice-Chancellor will return to theirs.
-3. Minister of Foreign Affairs has the primary obligation of maintaining strategic alliances and diplomatic relations between the Commonwealth and allies and friendly regions. Furthermore, the Minister of Foreign Affairs, with the prior approval of the Chancellor, may establish diplomatic ties with other regions. Lastly, the Minister of Foreign Affairs is authorized to send sanctioned messages over other regions' RMBs and maintain his or her own contingent of diplomatic staff. 
-4. Minister of Defense has the primary obligation of working closely with the leaders of the military, making sure that the military stays in check with Commonwealth values, and also keeping his own political network of intelligence personnel. 
-5. Minister of Internal Affairs has the primary duty of harmonizing inter-party relationships and maintaining the Commonwealth-Parliament relationship. The Minister of Internal Affairs will oversee the Parliament, and ensure that the Parliament runs smoothly, and majority-passed legislation is brought before the Chancellor for approval. In addition, the Minister of Internal Affairs has the duty of managing the Citizenship Office, and handling citizenship for the entire region. At any point the Chancellor or Lord-Chancellor may ask to pull citizenship records, or enter the Office account.
-6. Minister of Justice has the key responsibility of providing critical legal advice to the Cabinet. 
+**I**. The Chancellor (or the WA Delegate) has the primary duty of overseeing the successful operation of the Parliament and is the Head of State for the Commonwealth. He maintains the power to directly influence any aspect of governmental policy making, though he may not, under any circumstances, illegally alter or effect changes within the Commonwealth government that go against the existing Commonwealth Constitution. Furthermore, he carries the right to establish embassies and diplomatic relations between the Commonwealth and other regions, veto Parliament and Cabinet legislature, and carry out intelligence queries. Ban and ejection rights are also given to the Chancellor, but improper use may lead to impeachment and subsequent removal.
+**II**. The Vice-Chancellor has the primary obligation to manage recruitment and growth for the Commonwealth. In the event that the Chancellor is absent for a period of more than 7 days, then the Vice-Chancellor may take the Chancellor's position. If the Chancellor returns within the same term, then he or she may return to their original position, and the Vice-Chancellor will return to theirs.
+**III**. Minister of Foreign Affairs has the primary obligation of maintaining strategic alliances and diplomatic relations between the Commonwealth and allies and friendly regions. Furthermore, the Minister of Foreign Affairs, with the prior approval of the Chancellor, may establish diplomatic ties with other regions. Lastly, the Minister of Foreign Affairs is authorized to send sanctioned messages over other regions' RMBs and maintain his or her own contingent of diplomatic staff. 
+**IV** Minister of Defense has the primary obligation of working closely with the leaders of the military, making sure that the military stays in check with Commonwealth values, and also keeping his own political network of intelligence personnel. 
+**V**. Minister of Internal Affairs has the primary duty of harmonizing inter-party relationships and maintaining the Commonwealth-Parliament relationship. The Minister of Internal Affairs will oversee the Parliament, and ensure that the Parliament runs smoothly, and majority-passed legislation is brought before the Chancellor for approval. In addition, the Minister of Internal Affairs has the duty of managing the Citizenship Office, and handling citizenship for the entire region. At any point the Chancellor or Lord-Chancellor may ask to pull citizenship records, or enter the Office account.
+**VI**. Minister of Justice has the key responsibility of providing critical legal advice to the Cabinet. 
+
