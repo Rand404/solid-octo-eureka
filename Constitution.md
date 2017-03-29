@@ -107,3 +107,10 @@ by the Chancellor.
 **V**. On cases concerning the government and legislature, constitutional interpretations, impeachment cases and cases of treason all Justices will preside.\
 **VI**. The decisions and rulings of the Supreme Court made inside a Court of Law are the highest interpretation of the Constitution, and cannot be stricken down or amended by any other body other than the Supreme Court.
 
+## Article 8 - Election Procedure - [Taken from CFN Const]
+
+**I**. Under this Constitution there shall be elections voted upon by all registered citizens every 2 months. Positions that will be democratically voted into office will include the Cabinet and the Chancellor. Elections are to be held on the 1-4th of the delegated months.
+**II**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Commonwealth to be established in order to collect votes through telegram. The committee will be comprised solely of the Lord-Chancellor and former Chancellors. 
+**II**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.
+**IV**. The voting system will be a simple first-past-the-post system, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.
+
