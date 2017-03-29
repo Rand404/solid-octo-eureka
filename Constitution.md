@@ -105,7 +105,5 @@ by the Chancellor.
 **III**. The Supreme Court is cromprised of 3 Justices who are democratically elected and serve 4 month terms. The Justices are all equal and no one individual holds any more authority over any other.\
 **IV**. On all proposed cases of a criminal and/or civil nature the Court will meet before trial and delegate a single Justice to preside over the case. The rulings and decisions of this trial may be appealed. Appeals are heard by all Justices who will then come to a final ruling.\
 **V**. On cases concerning the government and legislature, constitutional interpretations, impeachment cases and cases of treason all Justices will preside.\
-
-
 **VI**. The decisions and rulings of the Supreme Court made inside a Court of Law are the highest interpretation of the Constitution, and cannot be stricken down or amended by any other body other than the Supreme Court.
 
