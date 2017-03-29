@@ -109,11 +109,11 @@ by the Chancellor.
 
 ## Article 8 - Election Procedure 
 
-**I**. Democratic elections are eligible to be voted in by all registered citizens. Positions that are democratically elected are the Chancellor and their Cabinet, the Supreme Court Justices and the Speaker. Elections are to be held on the 1-4th of the month at the ending of an office's term. 
-**II** The Chancellor is responsible for recording the candidates for each position in the prelude to an election. 
-**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice selected amongst the Supreme Court. 
-**IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.
-**V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.
+**I**. Democratic elections are eligible to be voted in by all registered citizens. Positions that are democratically elected are the Chancellor and their Cabinet, the Supreme Court Justices and the Speaker. Elections are to be held on the 1-4th of the month at the ending of an office's term. \
+**II**. The Chancellor is responsible for recording the candidates for each position in the prelude to an election. \
+**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice selected amongst the Supreme Court.\
+**IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.\
+**V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.\
 **VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs.
  
 
