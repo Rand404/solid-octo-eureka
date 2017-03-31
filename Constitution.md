@@ -57,7 +57,7 @@ any circumstances.\
 **V**. The Referendum is a public vote for all registered citizens to be
 able to partake in. Referenda shall have a simple two options of yes and
 no, be open for a minimum of 5 days, and may only be called for by a
-group of 7 citizens, a Cabinet supermajority, or the Chancellor. If the
+group of 5 citizens, a Cabinet supermajority, or the Chancellor. If the
 referendum passes with approval ratings above 60%, then the decision
 must be carried out. If the referendum is between 50-60%, the Cabinet
 will be called for a Majority Time Vote where the decision may be vetoed
