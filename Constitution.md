@@ -115,6 +115,13 @@ by the Chancellor.
 **IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.\
 **V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.\
 **VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs.
- 
+
+## Article 9 - Ratification, Repeal, and Amendments
+
+**I**.This document is ratified by a 2/3 majority of the delegates voting, including consent from the current Speaker.\
+**II**. Upon ratification all previous constitutional documents shall be repealed and rendered void.\
+**III**. The lawcode of the Confederacy shall be preserved if possible, but this document is to be held supreme and conflicting laws shall be repealed and rendered void.\
+**IV**.This document may be amended via an amendment from Parliament, referenda, or ruling from the Supreme Court.\
+**V**. Repeal of this constitution may occur via a supermajority vote from within Parliament with agreement from the Speaker and the Chancellor.
 
 
