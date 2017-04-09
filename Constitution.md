@@ -73,6 +73,7 @@ by the Chancellor.
 **VI**. There is to be no limit on the number of MPs or pieces of legislature on the floor at one time.\
 **VII**. Unless specified in the body of a bill, no law passed by Parliament is retroactive. An act committed may only be punished according to the provisons of a law that was fully in force at the time the act was committed.\
 **VIII**. Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
+**IX**. Bills proposed to Parliament are considered to be static at the moment of their proposal. No changes beyond grammatical, spelling or minor structural edits can be made to a bill once it has been proposed.
 
 ## Article 4 - The Cabinet - [Taken from CFN Const - Revised mildly]
 
@@ -121,7 +122,7 @@ by the Chancellor.
 **I**.This document is ratified by a 2/3 majority of the delegates voting, including consent from the current Speaker.\
 **II**. Upon ratification all previous constitutional documents shall be repealed and rendered void.\
 **III**. The lawcode of the Confederacy shall be preserved if possible, but this document is to be held supreme and conflicting laws shall be repealed and rendered void.\
-**IV**.This document may be amended via an amendment from Parliament, referenda, or ruling from the Supreme Court.\
-**V**. Repeal of this constitution may occur via a supermajority vote from within Parliament with agreement from the Speaker and the Chancellor.
+**IV**.This document may be amended via an amendment gaining more than an 80% endorsement rating from Parliament, referenda, or ruling from the Supreme Court.\
+**V**. Repeal of this constitution may occur via referenda with agreement from the Speaker and the Chancellor.
 
 
