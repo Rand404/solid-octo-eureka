@@ -1,6 +1,6 @@
 # The Constitution of the Confederacy of Free Natons
 
-## Article 1 - Bill of Rights - [Taken from CFN Const]
+## Article 1 - Bill of Rights 
 
 **I**. Parliament shall make no law respecting an establishment of religion
 in the government, or prohibiting the free exercise thereof; abridging
@@ -58,7 +58,7 @@ must be carried out. If the referendum is between 50-60%, the Cabinet
 will be called for a Majority Time Vote where the decision may be vetoed
 by the Chancellor.
 
-## Article 3 - The Confederate Parliament - [Taken from CFN Const, revised heavily]
+## Article 3 - The Confederate Parliament
 
 **I**. A Member of Parliament, to be known as an MP, is an individual responsible for generating proposals and representing the general public within the Confederacy. To qualify for the role of MP, one must apply for citizenship with the Minister of Internal Affairs, have a listed WA nation, and be accepted into the citizenry.\
 **II**. The Speaker is established as the leader of the Parliament. Their role is to maintain order and organisation within Parliament as well as preserving Parliamentary authority. The Speaker is tasked with organising voting in regard to legislation and other matters as Parlimanent as well as archiving and storing laws and failed legislation and passing legislation in the 51-79% endorsement rate with less than 5 total votes to the Minister of Internal Affairs for voting within Cabinet. The Speaker is elected every 2 months in a standard election.\
@@ -70,14 +70,14 @@ by the Chancellor.
 **VIII**. Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
 **IX**. Bills proposed to Parliament are considered to be static at the moment of their proposal. No changes beyond grammatical, spelling or minor structural edits can be made to a bill once it has been proposed.
 
-## Article 4 - The Cabinet - [Taken from CFN Const - Revised mildly]
+## Article 4 - The Cabinet
 
 **I**. The Cabinet is a democratically elected group of leaders who are Members of Parliament. To become a member of the Cabinet, one must be a Resident with a listed WA nation and be voted into the position during general elections.\
 **II**. The Cabinet is part of the Parliament, but has the power to act as a second house of legislature on bills reaching in the 51-80% percentile endorsement rating with less than 5 votes. \
 **III**. The Cabinet leaders will help decide the direction of the Confederacy in internal affairs, foreign affairs, judicial affairs, and overall executive affairs.\
 **IV**. The members of the Cabinet shall each individually be allowed to appoint a deputy to their seat. The deputy shall be bound by law to keep what he or she learns of classified information classified. The Cabinet member may appoint and dismiss deputies at will. Deputies do not automatically succeed to take on the Cabinet member's position if that member resigns or falls.
 
-## Article 5 - Cabinet Functions - [Taken from CFN Const - Revised heavily]
+## Article 5 - Cabinet Functions 
 
 **I**. **The Chancellor** has the primary duty of overseeing the successful operation of the Parliament and is the Head of State for the Confederacy. He maintains the power to directly influence any aspect of governmental policy making, though he may not, under any circumstances, illegally alter or effect changes within the Confederate government that go against the existing Confederate Constitution. Furthermore, he carries the right to establish embassies and diplomatic relations between the Confederacy and other regions, veto Parliamentary legislature, and carry out intelligence queries. All officer rights are given to the Chancellor.\
 **II**. **The Vice-Chancellor** has the primary obligation to manage recruitment and growth for the Confederacy. In the event that the Chancellor is absent for a period of more than 7 days, then the Vice-Chancellor may take the Chancellor's position. If the Chancellor returns within the same term, then he or she may return to their original position, and the Vice-Chancellor will return to theirs. All officer rights are given to the Vice-Chancellor.\
