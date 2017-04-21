@@ -1,10 +1,5 @@
 # The Constitution of the Confederacy of Free Natons
 
-
-## Preamble
-
-lorium ipsem etc, etc.
-
 ## Article 1 - Bill of Rights - [Taken from CFN Const]
 
 **I**. Parliament shall make no law respecting an establishment of religion
