@@ -1,23 +1,23 @@
 # Credits
 ## Article 1
-Taken from CFN Constitution created by Controlled Interests
+Taken from CFN Constitution created by Controlled Interests \
 Revised mildly by Unfallious
 
 ## Article 2
-Taken from CFN Constitution created by Controlled Interests
+Taken from CFN Constitution created by Controlled Interests \
 Revised mildly by Unfallious
 
 ## Article 3
-Taken from CFN Constitution created by Controlled Interests
-Rewritten and revised heavily by Unfallious
+Taken from CFN Constitution created by Controlled Interests \
+Rewritten and revised heavily by Unfallious \
 Sections VII - IX written based on suggestions from Penguania
 
 ## Article 4
-Taken from CFN Constitution created by Controlled Interests
+Taken from CFN Constitution created by Controlled Interests \
 Revised mildly by Unfallious
 
 ## Article 5
-Taken from CFN Constitution created by Controlled Interests
+Taken from CFN Constitution created by Controlled Interests \
 Rewritten and revised heavily by Unfallious
 
 ## Article 6
