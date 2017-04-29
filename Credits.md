@@ -28,6 +28,7 @@ Written by Unfallious
 
 ## Article 8
 Written by Unfallious
+Section VIII added by suggestion of Penguania
 
 ## Article 9
 Written by Unfallious
