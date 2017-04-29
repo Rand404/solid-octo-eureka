@@ -110,7 +110,9 @@ by the Chancellor.
 **III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice selected amongst the Supreme Court.\
 **IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.\
 **V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.\
-**VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs.
+**VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs. \
+**VII**. Election results must be kept secret until the conclusion of the election. \
+**IV**. Election ballots will be invalidated if the intentions of the voter are unclear of if the ballot itself has been spoiled. This includes the addition of unauthorised candidates.
 
 ## Article 9 - Ratification, Repeal, and Amendments
 
