@@ -28,7 +28,7 @@ of counsel for his defence.\
 **V**. There shall be no emotionally cruel and unusual punishments inflicted
 by the region on any person in any circumstance.
 
-## Article 2 - Government Mechanisms - [Taken from CFN Const, revised mildly]
+## Article 2 - Government Mechanisms
 
 **I**. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
