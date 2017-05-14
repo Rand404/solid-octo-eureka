@@ -18,8 +18,7 @@ infamous crime, unless on a probable charge of the such or formal
 indictment by the government on which they must show probable cause,
 except in cases arising in the regional military and national security
 agencies. Nor shall any person be compelled in any criminal case to be a
-witness against themself, nor be deprived of life, liberty, or NS
-property, without the process of Confederate law and conviction.\
+witness against themself.\
 **IV**. In all criminal prosecutions, the accused shall enjoy the right to a
 speedy and public trial, and to be informed of the nature and cause of
 the accusation; to be confronted with the witnesses against him; to have
@@ -33,49 +32,36 @@ by the region on any person in any circumstance.
 **I**. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
 Parliamentary system.\
-**II**. The Majority Time Vote is to be utilised at the Cabinet level, and
-as such may be implemented by relevant government officials whenever
-necessary. It will involve a 48 hour voting period during which time
-individuals will submit their vote regarding a proposal. At the end of
-the period, plurality will dictate the outcome of the vote (most number
-of votes wins, regardless of majority).\
-**III**. The Shortened Time Vote is to be utilised at the Cabinet level, and
-as such may be implemented by relevant government officials whenever
-necessary. It will involve a 24 hour voting period during which time
-individuals will submit their vote regarding a proposal. At the end of
-the period, plurality will dictate the outcome of the vote.\
-**IV**. The Executive Veto is to be given to the Chancellor. An
-unsatisfactory bill may be vetoed directly by this individual. However,
+**II**. The Executive Veto is to be given to the Chancellor. Any
+bill may be vetoed directly by this individual. However,
 should the Cabinet arrive at a clear supermajority vote of 4/5, then the
 veto shall be overruled. This overruled veto cannot be reinstated under
 any circumstances.\
-**V**. The Referendum is a public vote for all registered citizens to be
+**III**. The Referendum is a public vote for all registered citizens to be
 able to partake in. Referenda shall have a simple two options of yes and
 no, be open for a minimum of 5 days, and may only be called for by a
 group of 5 citizens, a Cabinet supermajority, or the Chancellor. If the
 referendum passes with approval ratings above 60%, then the decision
 must be carried out. If the referendum is between 50-60%, the Cabinet
-will be called for a Majority Time Vote where the decision may be vetoed
+will be called for a vote where the decision may be vetoed
 by the Chancellor.
 
 ## Article 3 - The Confederate Parliament
 
 **I**. A Member of Parliament, to be known as an MP, is an individual responsible for generating proposals and representing the general public within the Confederacy. To qualify for the role of MP, one must apply for citizenship with the Minister of Internal Affairs, have a listed WA nation, and be accepted into the citizenry.\
-**II**. The Speaker is established as the leader of the Parliament. Their role is to maintain order and organisation within Parliament as well as preserving Parliamentary authority. The Speaker is tasked with organising voting in regard to legislation and other matters as Parlimanent as well as archiving and storing laws and failed legislation and passing legislation in the 51-79% endorsement rate with less than 5 total votes to the Minister of Internal Affairs for voting within Cabinet. The Speaker is elected every 2 months in a standard election.\
-**III**. The Parliament's primary purpose is to be a forum of legislation for the Confederacy. Any MP may submit proposals and vote on other proposals. Legislation is passed through the Parliament into law if after a one-week period that legislation holds an 80% or above supermajority endorsement rating. If the endorsement rating is between 50-79%, then the Cabinet will be called for a Majority Time Vote concerning the legislation at hand. If the legislation does not reach a 50% or above endorsement rating, then it is shot down from the Parliament.\
+**II**. The Speaker is established as the leader of the Parliament. Their role is to maintain order and organisation within Parliament as well as preserving Parliamentary authority. The Speaker is tasked with organising voting in regard to legislation and other matters as Parlimanent. The Speaker is elected every 2 months in a standard election.\
+**III**. The Parliament's primary purpose is to be a forum of legislation for the Confederacy. Any MP may submit proposals and vote on other proposals. Legislation is passed through the Parliament into law if after a one-week period that legislation holds a 51% or above supermajority endorsement rating.If the legislation does not reach a 51% or above endorsement rating, then it is considered to have failed.\
 **IV**. The Parliament's check on the power of the Cabinet lies in its ability to remove Cabinet members. Such a decision will require that the legislature pertaining to the removal of the Minister(s) be on the floor for one-week, and at the one-week mark the legislature hold a 70% or above endorsement rating with 10 or more MPs voting in said legislature. Any Minister in the process of undergoing impeachment shall not be allowed to vote within the legislature on matters pertaining to his or her impeachment.\
-**V**. In addition, an unjust vote by the Cabinet can be called out through formal complaint. During this time, it is necessary for 5 individuals to submit a formal proposal and complaint to the Speaker, who will review its validity and determine if a general vote is in order. If it is, then the entire Parliament will vote on the proposed law, including the Cabinet.\
-**VI**. There is to be no limit on the number of MPs or pieces of legislature on the floor at one time.\
-**VII**. Unless specified in the body of a bill, no law passed by Parliament is retroactive. An act committed may only be punished according to the provisons of a law that was fully in force at the time the act was committed.\
-**VIII**. Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
-**IX**. Bills proposed to Parliament are considered to be static at the moment of their proposal. No changes beyond grammatical, spelling or minor structural edits can be made to a bill once it has been proposed.
+**V**. There is to be no limit on the number of MPs or pieces of legislature on the floor at one time.\
+**VI**. Unless specified in the body of a bill, no law passed by Parliament is retroactive. An act committed may only be punished according to the provisons of a law that was fully in force at the time the act was committed.\
+**VII**. Unless specified in the body of a bill, individual may be held accountable to a law even if its provisions expired or were repealed so long as the act can be proven to have been committed during a time when the law was in force.
+**VIII**. Bills proposed to Parliament are considered to be static at the moment of their proposal. No changes beyond grammatical, spelling or minor structural edits can be made to a bill once it has been proposed.
 
 ## Article 4 - The Cabinet
 
 **I**. The Cabinet is a democratically elected group of leaders who are Members of Parliament. To become a member of the Cabinet, one must be a Resident with a listed WA nation and be voted into the position during general elections.\
-**II**. The Cabinet is part of the Parliament, but has the power to act as a second house of legislature on bills reaching in the 51-80% percentile endorsement rating with less than 5 votes. \
-**III**. The Cabinet leaders will help decide the direction of the Confederacy in internal affairs, foreign affairs, judicial affairs, and overall executive affairs.\
-**IV**. The members of the Cabinet shall each individually be allowed to appoint a deputy to their seat. The deputy shall be bound by law to keep what he or she learns of classified information classified. The Cabinet member may appoint and dismiss deputies at will. Deputies do not automatically succeed to take on the Cabinet member's position if that member resigns or falls.
+**II**. The Cabinet leaders will help decide the direction of the Confederacy in internal affairs, foreign affairs, judicial affairs, and overall executive affairs.\
+**III**. The members of the Cabinet shall each individually be allowed to appoint a deputy to their seat. The deputy shall be bound by law to keep what he or she learns of classified information classified. The Cabinet member may appoint and dismiss deputies at will. Deputies may automatically succeed to take on the Cabinet member's position if that member resigns or falls.
 
 ## Article 5 - Cabinet Functions 
 
@@ -98,7 +84,7 @@ by the Chancellor.
 
 **I**. The Judicial Branch of the Confederacy is established apart from the Cabinet and Parliament to secure and ensure justice in the Confederacy and its government.\
 **II**. The Judiciary is comprised of a single court; the Supreme Court. This Court will oversee all cases within the region.\
-**III**. The Supreme Court is cromprised of 3 Justices who are democratically elected and serve 4 month terms. The Justices are all equal and no one individual holds authority over any other.\
+**III**. The Supreme Court is cromprised of 3 Justices who are democratically elected and serve 4 month terms with new elections being held at the nearest corresponding cabinet election following the end of a Court term. All Justices start and end their term at the same time. The Justices are all equal and no one individual holds authority over any other.\
 **IV**. On all proposed cases of a criminal and/or civil nature the Court will meet before trial and delegate a single Justice to preside over the case. The rulings and decisions of this trial may be appealed. Appeals are heard by all Justices who will then come to a final ruling.\
 **V**. On cases concerning the government and legislature, constitutional interpretations, impeachment cases and cases of treason all Justices will preside.\
 **VI**. The decisions and rulings of the Supreme Court made inside a Court of Law are the highest interpretation of the Constitution, and cannot be stricken down or amended by any other body other than the Supreme Court.
@@ -107,16 +93,16 @@ by the Chancellor.
 
 **I**. Democratic elections are eligible to be voted in by all registered citizens. Positions that are democratically elected are the Chancellor and their Cabinet, the Supreme Court Justices and the Speaker. Elections are to be held on the 1-4th of the month at the ending of an office's term. \
 **II**. The Chancellor is responsible for recording the candidates for each position in the prelude to an election. \
-**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice selected amongst the Supreme Court.\
+**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice nominated by the Supreme Court.\
 **IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.\
 **V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.\
 **VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs. \
-**VII**. Election results must be kept secret until the conclusion of the election. \
+**VII**. Election results except that of the Chancellor elections must be kept secret until the conclusion of the election. \
 **VIII**. Election ballots will be invalidated if the intentions of the voter are unclear of if the ballot itself has been spoiled. This includes the addition of unauthorised candidates.
 
 ## Article 9 - Ratification, Repeal, and Amendments
 
-**I**.This document is ratified by a 2/3 majority of the delegates voting, including consent from the current Speaker.\
+**I**.This document is ratified by an 80% majority of the delegates voting, including consent from the current Speaker.\
 **II**. Upon ratification all previous constitutional documents shall be repealed and rendered void.\
 **III**. The lawcode of the Confederacy shall be preserved if possible, but this document is to be held supreme and conflicting laws shall be repealed and rendered void.\
 **IV**.This document may be amended via an amendment gaining more than an 80% endorsement rating from Parliament, referenda, or ruling from the Supreme Court.\
