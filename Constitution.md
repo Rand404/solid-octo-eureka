@@ -18,8 +18,7 @@ infamous crime, unless on a probable charge of the such or formal
 indictment by the government on which they must show probable cause,
 except in cases arising in the regional military and national security
 agencies. Nor shall any person be compelled in any criminal case to be a
-witness against themself, nor be deprived of life, liberty, or NS
-property, without the process of Confederate law and conviction.\
+witness against themself.\
 **IV**. In all criminal prosecutions, the accused shall enjoy the right to a
 speedy and public trial, and to be informed of the nature and cause of
 the accusation; to be confronted with the witnesses against him; to have
