@@ -32,8 +32,8 @@ by the region on any person in any circumstance.
 **I**. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
 Parliamentary system.\
-**II**. The Executive Veto is to be given to the Chancellor. An
-unsatisfactory bill may be vetoed directly by this individual. However,
+**II**. The Executive Veto is to be given to the Chancellor. Any
+bill may be vetoed directly by this individual. However,
 should the Cabinet arrive at a clear supermajority vote of 4/5, then the
 veto shall be overruled. This overruled veto cannot be reinstated under
 any circumstances.\
