@@ -102,7 +102,7 @@ by the Chancellor.
 
 ## Article 9 - Ratification, Repeal, and Amendments
 
-**I**.This document is ratified by a 2/3 majority of the delegates voting, including consent from the current Speaker.\
+**I**.This document is ratified by an 80% majority of the delegates voting, including consent from the current Speaker.\
 **II**. Upon ratification all previous constitutional documents shall be repealed and rendered void.\
 **III**. The lawcode of the Confederacy shall be preserved if possible, but this document is to be held supreme and conflicting laws shall be repealed and rendered void.\
 **IV**.This document may be amended via an amendment gaining more than an 80% endorsement rating from Parliament, referenda, or ruling from the Supreme Court.\
