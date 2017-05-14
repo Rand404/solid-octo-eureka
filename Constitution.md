@@ -33,29 +33,18 @@ by the region on any person in any circumstance.
 **I**. By decree of this constitution, it is therefore established that a
 government of the people shall exist, which is to be organised in a
 Parliamentary system.\
-**II**. The Majority Time Vote is to be utilised at the Cabinet level, and
-as such may be implemented by relevant government officials whenever
-necessary. It will involve a 48 hour voting period during which time
-individuals will submit their vote regarding a proposal. At the end of
-the period, plurality will dictate the outcome of the vote (most number
-of votes wins, regardless of majority).\
-**III**. The Shortened Time Vote is to be utilised at the Cabinet level, and
-as such may be implemented by relevant government officials whenever
-necessary. It will involve a 24 hour voting period during which time
-individuals will submit their vote regarding a proposal. At the end of
-the period, plurality will dictate the outcome of the vote.\
-**IV**. The Executive Veto is to be given to the Chancellor. An
+**II**. The Executive Veto is to be given to the Chancellor. An
 unsatisfactory bill may be vetoed directly by this individual. However,
 should the Cabinet arrive at a clear supermajority vote of 4/5, then the
 veto shall be overruled. This overruled veto cannot be reinstated under
 any circumstances.\
-**V**. The Referendum is a public vote for all registered citizens to be
+**III**. The Referendum is a public vote for all registered citizens to be
 able to partake in. Referenda shall have a simple two options of yes and
 no, be open for a minimum of 5 days, and may only be called for by a
 group of 5 citizens, a Cabinet supermajority, or the Chancellor. If the
 referendum passes with approval ratings above 60%, then the decision
 must be carried out. If the referendum is between 50-60%, the Cabinet
-will be called for a Majority Time Vote where the decision may be vetoed
+will be called for a vote where the decision may be vetoed
 by the Chancellor.
 
 ## Article 3 - The Confederate Parliament
