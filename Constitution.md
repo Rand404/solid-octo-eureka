@@ -85,7 +85,7 @@ by the Chancellor.
 
 **I**. The Judicial Branch of the Confederacy is established apart from the Cabinet and Parliament to secure and ensure justice in the Confederacy and its government.\
 **II**. The Judiciary is comprised of a single court; the Supreme Court. This Court will oversee all cases within the region.\
-**III**. The Supreme Court is cromprised of 3 Justices who are democratically elected and serve 4 month terms. The Justices are all equal and no one individual holds authority over any other.\
+**III**. The Supreme Court is cromprised of 3 Justices who are democratically elected and serve 4 month terms with new elections being held at the nearest corresponding cabinet election following the end of a Court term. All Justices start and end their term at the same time. The Justices are all equal and no one individual holds authority over any other.\
 **IV**. On all proposed cases of a criminal and/or civil nature the Court will meet before trial and delegate a single Justice to preside over the case. The rulings and decisions of this trial may be appealed. Appeals are heard by all Justices who will then come to a final ruling.\
 **V**. On cases concerning the government and legislature, constitutional interpretations, impeachment cases and cases of treason all Justices will preside.\
 **VI**. The decisions and rulings of the Supreme Court made inside a Court of Law are the highest interpretation of the Constitution, and cannot be stricken down or amended by any other body other than the Supreme Court.
@@ -94,11 +94,11 @@ by the Chancellor.
 
 **I**. Democratic elections are eligible to be voted in by all registered citizens. Positions that are democratically elected are the Chancellor and their Cabinet, the Supreme Court Justices and the Speaker. Elections are to be held on the 1-4th of the month at the ending of an office's term. \
 **II**. The Chancellor is responsible for recording the candidates for each position in the prelude to an election. \
-**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice selected amongst the Supreme Court.\
+**III**. To ensure that data collection is provided safely, it will be necessary for the Election Committee of the Confederacy to be established in order to collect votes through telegram. The committee will be comprised of the current Chancellor and one Justice nominated by the Supreme Court.\
 **IV**. In order to vote, a nation must be a registered citizen, with no suspension of citizenship during the election time.\
 **V**. The voting system for the Cabinet, Speaker and Supreme Court Justices will be a simple first-past-the-post system performed via telegram, in which every registered citizen may vote for each position with one vote. Votes may only be cast once and only once.\
 **VI**. Chancellor elections are to be performed via regional poll lasting 3 days and commenced by the Minister of Internal Affairs. \
-**VII**. Election results must be kept secret until the conclusion of the election. \
+**VII**. Election results except that of the Chancellor elections must be kept secret until the conclusion of the election. \
 **VIII**. Election ballots will be invalidated if the intentions of the voter are unclear of if the ballot itself has been spoiled. This includes the addition of unauthorised candidates.
 
 ## Article 9 - Ratification, Repeal, and Amendments
